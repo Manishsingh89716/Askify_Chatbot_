@@ -11,7 +11,7 @@
 * Installation
 * 1. Clone the Repository
 * git clone https://github.com/Manishsingh89716/Askify_Chatbot_.git
-* cd chat-with-pdf
+* cd Askify_Chatbot_
 * 2. Install Dependencies
 * pip install streamlit PyPDF2 langchain langchain-google-genai python-dotenv faiss-cpu google-generativeai
 * 3. Set Up Environment Variables
